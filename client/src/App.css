@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.todo-container {
+  margin-top: 20px;
+}
+
+h1 {
+  margin-bottom: 2% !important;
+}
+
+.checked-card {
+  color: #d1d1d1;
+  text-decoration: line-through #d1d1d1;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.109),
+    -5px -5px 30px 7px rgba(0, 0, 0, 0.109);
+}
+
+.todo-action-btn {
+  display: none !important;
+}
+
+.card:hover .todo-action-btn {
+  display: inline-block !important;
+}
+
+.card-subtitle {
+  font-size: 0.8rem !important;
+}
