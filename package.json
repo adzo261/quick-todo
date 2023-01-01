@@ -13,7 +13,7 @@
   "author": "adzo261",
   "license": "MIT",
   "dependencies": {
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "moment": "^2.24.0",
